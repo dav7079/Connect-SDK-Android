@@ -1,0 +1,3 @@
+use method -> Environment.getExternalStoragePublicDirectory()
+
+java.io.FileNotFoundException: /storage/emulated/0/Download open failed: EACCES (Permission denied)
